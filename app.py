@@ -239,7 +239,7 @@ def app():
             st.write(df)
 
     st.subheader(
-        ' ------------------------Created By :  Kunal Rohit Vaibhav Parth ---------------------- :sunglasses:')
+        ' ------------Created By :  Kunal Rohit Vaibhav Parth ------------ :sunglasses:')
 
 
 if __name__ == "__main__":

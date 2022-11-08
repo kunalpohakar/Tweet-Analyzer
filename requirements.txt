@@ -53,3 +53,4 @@ urllib3==1.26.12
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 wincertstore==0.2
 wordcloud==1.8.2.2
+streamlit==0.61.0
